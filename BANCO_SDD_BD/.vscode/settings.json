@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.sql": "sql"
+  },
+  "editor.defaultFormatter": "mtxr.sqltools",
+  "[sql]": {
+    "editor.defaultFormatter": "mtxr.sqltools",
+    "editor.formatOnSave": false
+  },
+  "sqltools.connections": [],
+  "sqltools.useNodeRuntime": true,
+  "sqltools.format.indentStyle": "space",
+  "sqltools.format.indentSize": 2,
+  "sqltools.format.keywordCase": "upper",
+  "sqltools.format.dataTypeCase": "upper",
+  "sqltools.format.functionCase": "upper"
+}

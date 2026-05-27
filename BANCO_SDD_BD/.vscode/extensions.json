@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "cweijan.vscode-mysql-client2",
+    "jakebathman.mysql-syntax",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-mysql"
+  ],
+  "unwantedRecommendations": [
+    "ms-mssql.mssql",
+    "ms-mssql.sql-database-projects",
+    "ms-azuretools.vscode-databases"
+  ]
+}
